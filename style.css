@@ -1,0 +1,15 @@
+.navbar {
+	background-color: pink;
+}
+.corousel{
+	height: 400px;
+	justify-content: center;
+}
+.corousel-inner{
+height:100%;
+width: 100%;
+justify-content: center;
+}
+.jumbotron p{
+	background-color: yellow;
+}
